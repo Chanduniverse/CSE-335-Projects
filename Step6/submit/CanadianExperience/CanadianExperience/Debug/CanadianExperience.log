@@ -1,0 +1,32 @@
+﻿  Actor.cpp
+  ActorFactory.cpp
+  AnimChannel.cpp
+E:\Github\CSE335\Step6\submit\CanadianExperience\CanadianExperience\AnimChannel.cpp(40,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  AnimChannelAngle.cpp
+  AnimChannelPosition.cpp
+  Drawable.cpp
+  HaroldFactory.cpp
+  HeadTop.cpp
+E:\Github\CSE335\Step6\submit\CanadianExperience\CanadianExperience\HeadTop.cpp(54,46): warning C4244: 'argument': conversion from 'INT' to 'Gdiplus::REAL', possible loss of data
+E:\Github\CSE335\Step6\submit\CanadianExperience\CanadianExperience\HeadTop.cpp(54,38): warning C4244: 'argument': conversion from 'INT' to 'Gdiplus::REAL', possible loss of data
+E:\Github\CSE335\Step6\submit\CanadianExperience\CanadianExperience\HeadTop.cpp(61,48): warning C4244: 'argument': conversion from 'INT' to 'Gdiplus::REAL', possible loss of data
+E:\Github\CSE335\Step6\submit\CanadianExperience\CanadianExperience\HeadTop.cpp(61,39): warning C4244: 'argument': conversion from 'INT' to 'Gdiplus::REAL', possible loss of data
+  ImageDrawable.cpp
+  MainFrm.cpp
+  Picture.cpp
+  PictureFactory.cpp
+  PictureObserver.cpp
+  PolyDrawable.cpp
+  Timeline.cpp
+  TimelineDlg.cpp
+  UnmaskedSpartyFactory.cpp
+  ViewEdit.cpp
+  ViewTimeline.cpp
+E:\Github\CSE335\Step6\submit\CanadianExperience\CanadianExperience\ViewTimeline.cpp(131,134): warning C4244: 'argument': conversion from 'double' to 'INT', possible loss of data
+E:\Github\CSE335\Step6\submit\CanadianExperience\CanadianExperience\ViewTimeline.cpp(131,80): warning C4244: 'argument': conversion from 'double' to 'INT', possible loss of data
+E:\Github\CSE335\Step6\submit\CanadianExperience\CanadianExperience\ViewTimeline.cpp(134,138): warning C4244: 'argument': conversion from 'double' to 'INT', possible loss of data
+E:\Github\CSE335\Step6\submit\CanadianExperience\CanadianExperience\ViewTimeline.cpp(134,84): warning C4244: 'argument': conversion from 'double' to 'INT', possible loss of data
+E:\Github\CSE335\Step6\submit\CanadianExperience\CanadianExperience\ViewTimeline.cpp(144,97): warning C4244: 'argument': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+E:\Github\CSE335\Step6\submit\CanadianExperience\CanadianExperience\ViewTimeline.cpp(151,122): warning C4244: 'argument': conversion from 'double' to 'INT', possible loss of data
+  Generating Code...
+  CanadianExperience.vcxproj -> E:\Github\CSE335\Step6\submit\CanadianExperience\Debug\CanadianExperience.exe

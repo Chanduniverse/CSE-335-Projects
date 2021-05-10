@@ -1,0 +1,9 @@
+﻿  CActorTest.cpp
+  CDrawableTest.cpp
+  CImageDrawableTest.cpp
+  CPictureObserverTest.cpp
+  CPictureTest.cpp
+  CPolyDrawableTest.cpp
+  Generating Code...
+E:\Github\CSE335\Step6\submit\CanadianExperience\Testing\CPolyDrawableTest.cpp(27): warning C4715: 'Testing::CPolyDrawableTest::CompareColors': not all control paths return a value
+  Testing.vcxproj -> E:\Github\CSE335\Step6\submit\CanadianExperience\Debug\Testing.dll

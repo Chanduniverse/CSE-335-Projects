@@ -1,0 +1,24 @@
+/**
+ * \file EmptyTest.cpp
+ *
+ * \author Chandan Aralikatti
+ * 
+ * Handles tests for empty
+ */
+
+#include "pch.h"
+#include "CppUnitTest.h"
+
+using namespace Microsoft::VisualStudio::CppUnitTestFramework;
+
+namespace Testing
+{
+	TEST_CLASS(EmptyTest)
+	{
+	public:
+		
+		TEST_METHOD(TestNothing)
+		{
+		}
+	};
+}
